@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (OpencvGPU.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+Source.cpp(67): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+Source.cpp(68): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  1 of 7 functions (14.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CudaGpuSample.vcxproj -> D:\lian\vc-work\CudaGpuSample\x64\Release\CudaGpuSample.exe
+  CudaGpuSample.vcxproj -> D:\lian\vc-work\CudaGpuSample\x64\Release\CudaGpuSample.pdb (Full PDB)
